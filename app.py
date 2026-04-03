@@ -1,9 +1,9 @@
 # ============================================================
 # CABECERA
 # ============================================================
-# Alumno: Nombre Apellido
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# Alumno: Camille Vilain
+# URL Streamlit Cloud: https://spotify-wrapped-analytics.streamlit.app/
+# URL GitHub: https://github.com/camille-vilain/spotify-wrapped-analytics
 
 # ============================================================
 # IMPORTS
